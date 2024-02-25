@@ -1,2 +1,3 @@
 # 2024A_Programacio_web_Taller
-s
+
+Aqui se van subur todas las digramas de clase
