@@ -2,4 +2,4 @@
 
 Aqui se van subur todas las digramas de clase
 
-Cada uno tieneq crear su Rama con el nombre de su codigo estudiantil
+Cada uno tiene crear su Rama con el nombre de su codigo estudiantil
